@@ -1,0 +1,3 @@
+[submodule "WarriorSim"]
+	path = WarriorSim
+	url = https://github.com/chiuup/WarriorSim
